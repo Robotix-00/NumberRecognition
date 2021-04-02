@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.extras;
+package facharbeit.extras;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Date;
 import java.util.Scanner;
 
-import de.hoffmann.bruno.facharbeit.neuralNetwork.NeuralNetwork;
+import facharbeit.neuralNetwork.NeuralNetwork;
 
 public class TrainRequest {
     private static BufferedWriter log;

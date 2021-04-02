@@ -1,10 +1,10 @@
-package de.hoffmann.bruno.facharbeit.extras;
+package facharbeit.extras;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import de.hoffmann.bruno.facharbeit.neuralNetwork.NeuralNetwork;
+import facharbeit.neuralNetwork.NeuralNetwork;
 
 public class TrainNet {
 
@@ -19,7 +19,7 @@ public class TrainNet {
 	    System.out.println("Start Training");
 
 	    NeuralNetwork net = new NeuralNetwork(784, hidden, 10);
-	    train(net, epochen, new File(file+".knn"), learnrate);
+	    train(net, epochen, new File(file), learnrate);
 	    net.save(new File(saveFile));
 	} catch (Exception e) {
 	    System.out.println("Ein Fehler ist aufgetreten, bitte versuchen Sie es erneut.");

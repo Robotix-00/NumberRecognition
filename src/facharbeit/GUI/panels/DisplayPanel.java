@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI.panels;
+package facharbeit.GUI.panels;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 import javax.swing.JButton;
 import javax.swing.JPanel;
 
-import de.hoffmann.bruno.facharbeit.GUI.Grid;
+import facharbeit.GUI.Grid;
 
 /*
  * Verwendet zum Ansehen der Beispiele in einer Datei

@@ -1,6 +1,6 @@
-package de.hoffmann.bruno.facharbeit;
+package facharbeit;
 
-import de.hoffmann.bruno.facharbeit.GUI.KnnGUI;
+import facharbeit.GUI.KnnGUI;
 
 public class Main {
     //Startet das GUI

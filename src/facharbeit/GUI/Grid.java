@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI;
+package facharbeit.GUI;
 
 import java.awt.Color;
 import java.awt.Graphics;

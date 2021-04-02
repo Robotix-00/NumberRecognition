@@ -1,11 +1,11 @@
-package de.hoffmann.bruno.facharbeit.extras;
+package facharbeit.extras;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FilenameFilter;
 import java.util.Scanner;
 
-import de.hoffmann.bruno.facharbeit.neuralNetwork.NeuralNetwork;
+import facharbeit.neuralNetwork.NeuralNetwork;
 
 /*
  * Berechnet die Treffsicherheit aller Netze in einem Ordner, die dem Filter entsprechen.

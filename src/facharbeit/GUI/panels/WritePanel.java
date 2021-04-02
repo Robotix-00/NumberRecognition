@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI.panels;
+package facharbeit.GUI.panels;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 import javax.swing.KeyStroke;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import de.hoffmann.bruno.facharbeit.GUI.Grid;
+import facharbeit.GUI.Grid;
 
 /*
  * Schreibt die eingetragenen Pixel als eingestellte Zahl in die ausgewählte Datei 

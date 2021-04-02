@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI.panels;
+package facharbeit.GUI.panels;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -14,7 +14,7 @@ import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import de.hoffmann.bruno.facharbeit.GUI.KnnGUI;
+import facharbeit.GUI.KnnGUI;
 
 /*
  * Liest alle Zahlen aus einer Datei aus und sagt deren Wert voraus.

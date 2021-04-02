@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.extras;
+package facharbeit.extras;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

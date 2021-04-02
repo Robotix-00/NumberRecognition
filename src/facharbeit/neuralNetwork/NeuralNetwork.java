@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.neuralNetwork;
+package facharbeit.neuralNetwork;
 
 import java.io.File;
 import java.io.FileNotFoundException;

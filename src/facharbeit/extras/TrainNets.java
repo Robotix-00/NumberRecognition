@@ -1,10 +1,10 @@
-package de.hoffmann.bruno.facharbeit.extras;
+package facharbeit.extras;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.hoffmann.bruno.facharbeit.neuralNetwork.NeuralNetwork;
+import facharbeit.neuralNetwork.NeuralNetwork;
 
 /*
  * Diese Klasse wird verwendet um mehrere Netze gleichzeitig zu trainieren.

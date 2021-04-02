@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI.panels;
+package facharbeit.GUI.panels;
 
 import java.awt.Label;
 import java.awt.event.ActionEvent;
@@ -10,8 +10,8 @@ import javax.swing.JFileChooser;
 import javax.swing.JPanel;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import de.hoffmann.bruno.facharbeit.GUI.KnnGUI;
-import de.hoffmann.bruno.facharbeit.neuralNetwork.NeuralNetwork;
+import facharbeit.GUI.KnnGUI;
+import facharbeit.neuralNetwork.NeuralNetwork;
 
 /*
  * Zur Einstellung von allen Variablen (KNN-Pfad)

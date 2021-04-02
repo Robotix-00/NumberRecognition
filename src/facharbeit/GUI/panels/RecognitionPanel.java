@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI.panels;
+package facharbeit.GUI.panels;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
@@ -13,8 +13,8 @@ import javax.swing.JPanel;
 import javax.swing.JProgressBar;
 import javax.swing.KeyStroke;
 
-import de.hoffmann.bruno.facharbeit.GUI.Grid;
-import de.hoffmann.bruno.facharbeit.GUI.KnnGUI;
+import facharbeit.GUI.Grid;
+import facharbeit.GUI.KnnGUI;
 
 /*
  * Panel zur Eingabe einer 28x28 Pixel-Matrix und deren Auswertung zu einer Zahl

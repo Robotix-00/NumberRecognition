@@ -1,4 +1,4 @@
-package de.hoffmann.bruno.facharbeit.GUI;
+package facharbeit.GUI;
 
 import java.io.File;
 
@@ -8,8 +8,8 @@ import javax.swing.JPanel;
 import javax.swing.JTabbedPane;
 import javax.swing.border.EmptyBorder;
 
-import de.hoffmann.bruno.facharbeit.GUI.panels.*;
-import de.hoffmann.bruno.facharbeit.neuralNetwork.NeuralNetwork;
+import facharbeit.GUI.panels.*;
+import facharbeit.neuralNetwork.NeuralNetwork;
 
 /*
  * HauptFenster des GUIs - Verwaltung des KNNs und der Unterfenster
